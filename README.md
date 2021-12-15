@@ -28,7 +28,7 @@ I'm a student who is learning how to code. I love making and designing webpages 
 
 --- 
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/87/2e/56/872e568bbfd406dc4a62c37aac0a5682.jpg" align="left" width=50%/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/87/2e/56/872e568bbfd406dc4a62c37aac0a5682.jpg" align="left" width=40%/>
 
 
 ### 🛠 &nbsp;Language and my working tools
