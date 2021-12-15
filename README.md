@@ -2,20 +2,17 @@
   <!-- Your title -->
 ## Hi there, I'm Neda Akbari!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
  
-  <!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-<div >
+<div align="center">
 <a href="https://github.com/https://github.com/nedaakbari" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/accounts/onetap/?next=%2Faccounts%2Fprivacy_and_security%2F" target="_blank">
+<a href="https://instagram.com/https://www.instagram.com/nedaak55/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>    
+</div>
 
 &nbsp;
 <!-- Talking about you -->
