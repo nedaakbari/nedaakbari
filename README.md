@@ -1,5 +1,7 @@
-<h3><p align="center">Hi there, I'm Neda Akbari! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h3></a></p>
-<p align="center" >  
+
+  <!-- Your title -->
+## Hi there, I'm Neda Akbari!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+ 
   
 <summary><h3> What I currently do</h3></summary>
   
@@ -10,9 +12,6 @@
 - ⚡ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
   
 <summary><h2> To connect with me</h2></summary>
-
-  <!-- Your title -->
-## Hi there, I'm Neda Akbari!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
