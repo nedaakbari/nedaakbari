@@ -54,8 +54,6 @@ I'm a student who is learning how to code. I love making and designing webpages 
 
 --- 
 
-
-### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedaakbari&show_icons=true&count_private=true&hide_border=true""/>
@@ -65,6 +63,10 @@ I'm a student who is learning how to code. I love making and designing webpages 
 
 <!--
  ### Hi there 👋
+                                                                                                                                               
+### ⚙️ &nbsp;GitHub Analytics
+                                                                                                                                               
+                                                                                                                                             
 **nedaakbari/nedaakbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
