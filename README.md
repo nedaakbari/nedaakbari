@@ -28,7 +28,7 @@ I'm a student who is learning how to code. I love making and designing webpages 
 
 --- 
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/87/2e/56/872e568bbfd406dc4a62c37aac0a5682.jpg" align="left" width=40%/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/87/2e/56/872e568bbfd406dc4a62c37aac0a5682.jpg" align="left" width=50%/>
 
 
 ### 🛠 &nbsp;Language and my working tools
@@ -56,7 +56,7 @@ I'm a student who is learning how to code. I love making and designing webpages 
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p >
+<p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedaakbari&show_icons=true&count_private=true&hide_border=true""/>
   
