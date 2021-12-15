@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nedakbari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedaakbari&show_icons=true&count_private=true&hide_border=true""/>
 </a>
 </p>
 
