@@ -47,8 +47,9 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
 <p >
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedaakbari&show_icons=true&count_private=true&hide_border=true""/>
