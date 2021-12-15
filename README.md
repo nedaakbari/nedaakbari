@@ -28,8 +28,6 @@ I'm a student who is learning how to code. I love making and designing webpages 
 
 --- 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Language and my working tools
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -48,6 +46,8 @@ I'm a student who is learning how to code. I love making and designing webpages 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+<img alt="Night Coding" src="https://i.pinimg.com/originals/87/2e/56/872e568bbfd406dc4a62c37aac0a5682.jpg" align="right"/>
 
 &nbsp;
 
