@@ -3,7 +3,7 @@
 ## Hi there, I'm Neda Akbari!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
  
 <div>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<a href="https://github.com/nedaakbari" target="_blank">
+<a href="https://github.com/nedaakbari" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/rishavanand" target="_blank">
@@ -15,8 +15,7 @@
 </div>
 
 &nbsp;
-<!-- Talking about you -->
-**About Me:**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About Me:**
 
 - I’m currently working on __[MyProject](https://github.com/zjayers/chalkboard)__.
 - I’m currently learning __java__, __js__, __React__.
