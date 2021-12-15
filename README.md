@@ -11,12 +11,11 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
 
 &nbsp;
- 
 <!-- Talking about you -->
 **About Me:**
 
 - I’m currently working on __[MyProject](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __java__, __js__, & __React__.
+- I’m currently learning __java__, __js__, __React__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: *I Always try to learn something new and then sleep till it store in the brain*.
