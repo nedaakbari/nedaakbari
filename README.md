@@ -15,9 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://instagram.com/https://www.instagram.com/accounts/onetap/?next=%2Faccounts%2Fprivacy_and_security%2F" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
- 
-<br/>  
+</div>    
 
 &nbsp;
 <!-- Talking about you -->
@@ -49,19 +47,6 @@ You can use the website to generate badges: https://shields.io/
 </div>  
 
 
-</td><td valign="top" width="22%">
-  
-
-</td><td valign="top" width="22%">
-
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-</a>
-
-  
-  
-  
-  
   
   
   
