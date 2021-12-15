@@ -14,8 +14,6 @@
 </a>  
 </div>
 
-![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
-
 I'm a student who is learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in java and Python because they challenge me more.
 
 &nbsp;
