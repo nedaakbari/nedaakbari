@@ -2,18 +2,7 @@
   <!-- Your title -->
 ## Hi there, I'm Neda Akbari!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
  
-  
-<summary><h3> What I currently do</h3></summary>
-  
-- ✔ I’m currently learing java and js.
-- ✔ I’m working on my Frontend-Web sckils.
-- 🤔 I’m looking for help with React.
-- 💬 Ask from me anything you want, If I am alive I will answer within seconds. 
-- ⚡ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
-  
-<summary><h2> To connect with me</h2></summary>
-
-<!-- Your badges
+  <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
@@ -22,16 +11,16 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
 
 &nbsp;
-
+ 
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
+- I’m currently working on __[MyProject](https://github.com/zjayers/chalkboard)__.
+- I’m currently learning __java__, __js__, & __React__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- Fun-Fact: *I Always try to learn something new and then sleep till it store in the brain*.
+- How to reach me: __nedaakbari555@gmail.com__
 
 ---
 
