@@ -20,8 +20,8 @@ I'm a student who is learning how to code. I love making and designing webpages 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **About Me:**
 
 - I’m currently working on __[MyProject](https://github.com/nedaakbari/Bank_JPA_Hibernate)__.
-- I’m currently learning __java__, __js__, __React__.
-- I’m looking to collaborate on anything!
+- I’m learning __java__, __js__, __React__.
+- I’m looking to collaborate on java project!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: *I Always try to learn something new and then sleep till it store in the brain*.
 - How to reach me: __nedaakbari555@gmail.com__
