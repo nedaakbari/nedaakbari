@@ -16,7 +16,6 @@ I'm a student who is learning how to code. I love making and designing webpages 
 - I’m looking to collaborate on java project!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: *I Always try to learn something new and then sleep till it store in the brain*.
-- How to reach me: __nedaakbari555@gmail.com__
 
 --- 
 
