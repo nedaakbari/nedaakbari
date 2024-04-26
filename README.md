@@ -3,15 +3,7 @@
 ## Hi there, I'm Neda Akbari!👋
  
 <div>
-<a href="https://github.com/nedaakbari" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/nedaak55/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
 </div>
 
 I'm a student who is learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in java and Python because they challenge me more.
